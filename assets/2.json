@@ -1,0 +1,19 @@
+{
+  "name": "Candy#3",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5S3nP9t4WYTduCXUgLQpJvWr13hWzhpvQrSNg36XPzk5",
+        "share": 100
+      }
+    ]
+  }
+}
